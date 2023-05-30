@@ -1,0 +1,16 @@
+.square {
+    -fx-border-style: solid;
+    -fx-background-color: #a99b87;
+}
+
+.blue-square {
+    -fx-background-color: #05820d;
+}
+
+.green-square {
+    -fx-background-color: rgba(0, 255, 0, 0.5);
+}
+
+.backgroundColor{
+    -fx-background-color: linear-gradient(to right bottom,#2C9C1B,#5DA552);
+}

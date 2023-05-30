@@ -1,0 +1,28 @@
+.backgroundColor{
+    -fx-background-color: linear-gradient(to right bottom,#2C9C1B,#5DA552);
+}
+
+.button-style{
+    -fx-background-color:  rgb(93,162,83,0.2);
+}
+
+.button-style:hover{
+    -fx-text-fill: rgb(102,51,0);
+}
+
+.text-box-style{
+    -fx-background-color:  rgb(93,162,83,0.2);
+    -fx-text-fill: #845004;
+}
+
+.table{
+    -fx-font-size: 20;
+}
+
+.table-button{
+    -fx-background-color:  rgb(93,162,83,0.2);
+}
+
+.table-button:hover{
+    -fx-background-color: rgb(0,0,0,0.3);
+}

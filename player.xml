@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<allPlayers>
+    <PlayerStats>
+        <playerList>
+            <playerType>Fox</playerType>
+            <playerName>5152</playerName>
+            <playerWinCount>1</playerWinCount>
+        </playerList>
+        <playerList>
+            <playerType>Dogs</playerType>
+            <playerName>6+265</playerName>
+            <playerWinCount>0</playerWinCount>
+        </playerList>
+    </PlayerStats>
+</allPlayers>
